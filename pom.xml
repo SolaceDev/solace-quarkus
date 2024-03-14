@@ -16,9 +16,9 @@
   <name>Quarkus Solace - Parent</name>
 
   <scm>
-    <connection>scm:git:git@github.com:SolaceLabs/solace-quarkus.git</connection>
-    <developerConnection>scm:git:git@github.com:SolaceLabs/solace-quarkus.git</developerConnection>
-    <url>https://github.com/SolaceLabs/solace-quarkus</url>
+    <connection>scm:git:git@github.com:SolaceDev/solace-quarkus.git</connection>
+    <developerConnection>scm:git:git@github.com:SolaceDev/solace-quarkus.git</developerConnection>
+    <url>https://github.com/SolaceDev/solace-quarkus</url>
   </scm>
 
   <properties>
@@ -197,11 +197,11 @@
       <distributionManagement>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/SolaceLabs/solace-quarkus</url>
+          <url>https://maven.pkg.github.com/SolaceDev/solace-quarkus</url>
         </repository>
         <snapshotRepository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/SolaceLabs/solace-quarkus</url>
+          <url>https://maven.pkg.github.com/SolaceDev/solace-quarkus</url>
         </snapshotRepository>
       </distributionManagement>
     </profile>
